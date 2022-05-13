@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Szevin
+- 👀 I’m interested in Fullstack development
+- 🌱 I’m currently learning NextJS
+- 💞️ I’m looking to collaborate on anything Javascript based
+- 📫 How to reach me: pls don't
