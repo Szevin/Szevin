@@ -6,6 +6,8 @@ sudo add-apt-repository multiverse
 sudo apt-add-repository ppa:fish-shell/release-3
 sudo add-apt-repository ppa:agornostal/ulauncher
 sudo add-apt-repository ppa:qbittorrent-team/qbittorrent-stable
+sudo add-apt-repository ppa:gezakovacs/ppa
+sudo add-apt-repository ppa:costales/anoise
 sudo apt-get update
 sudo apt-get upgrade
 sudo apt-get install wget gpg -y
@@ -18,7 +20,7 @@ sudo apt-get install wget gpg -y
 sudo snap install vlc kdenlive gimp gog-galaxy-wine godot arduino insomnia -y
 
 # apt
-sudo apt-get install steam gnome-tweaks tilix pidgin polybar fish nginx ulauncher qbittorrent qdirstat mangohud -y
+sudo apt-get install steam gnome-tweaks tilix pidgin polybar fish nginx ulauncher qbittorrent qdirstat mangohud unetbootin filezilla gpick anoise -y
 
 #chrome
 wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
