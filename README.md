@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Szevin
 - 👀 I’m interested in Fullstack development
-- 🌱 I’m currently working on ...
+- 🌱 I’m currently working on learning new languages while doing AOC
 - 💞️ I’m looking to collaborate on anything Typescript related
-- 📫 How to reach me: kevingeiger25@gmail.com
+- 📫 How to reach me: -
